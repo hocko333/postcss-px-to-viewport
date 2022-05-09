@@ -1,4 +1,4 @@
-# postcss-px-2-viewport
+# postcss-px-as-viewport
 [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
 
 ## 支持 `UmiJs v3`
@@ -7,7 +7,7 @@
 
 ### 使用方法
 ```bash
-yarn add -D postcss-px-2-viewport
+yarn add -D postcss-px-as-viewport
 ```
 
 > 以下为原 README.md 内容

@@ -7,7 +7,7 @@
 
 ### 使用方法
 ```bash
-yarn add -D postcss-px-2-viewport
+yarn add -D postcss-px-as-viewport
 ```
 
 > 以下为原 README.md 内容
