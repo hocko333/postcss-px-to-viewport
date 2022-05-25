@@ -1,13 +1,15 @@
 # postcss-px-to-viewport
 [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
 
+## 自用的定制版本 请勿使用！
+
 ## 支持 `UmiJs v3`
 
 `UmiJs v3` 中的 `postcss` 版本为 `7.0.32`，为了可以在 `UmiJs` 中使用 `postcss-px-to-viewport`，故将 `postcss` 的版本降为 `7.0.32`。
 
 ### 使用方法
 ```bash
-yarn add -D postcss-px-as-viewport
+yarn add -D postcss-px-convert-viewport
 ```
 
 > 以下为原 README.md 内容
